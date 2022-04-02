@@ -2,8 +2,8 @@
 
 	"manifest_version" : 2,
 
-	"name" : "Close Left tabs",
-	"version" : "0.3",
+	"name" : "Close left tabs (white icon)",
+	"version" : "0.3.1",
 	"description" : "Close Left Tabs on one click",
 
 	"permissions" : [
@@ -11,7 +11,7 @@
 	],
 
 	"browser_action" : {
-		"default_icon" : "icon.png",
+		"default_icon" : "icons-white/icon.png",
 		"default_title" : "Close Left Tabs"
 	},
 
@@ -22,8 +22,8 @@
 	},
 
 	"icons": { 
-			"16": "icon16.png",
-           "48": "icon48.png",
-          "128": "icon128.png" }
+			"16": "icons-white/icon16.png",
+           "48": "icons-white/icon48.png",
+          "128": "icons-white/icon128.png" }
 
 }
